@@ -2,6 +2,6 @@
 "name" : "EnduranceDT",
 "symbol" : "ER",
 "data_url" : "https://script.google.com/macros/s/AKfycbywdV_k_smThY1UqKt1SqlQpwxcrGba7yclYrPwBJiNbLIPP5JzPqp8/exec",
-"level_order" : ["E-2~","E-1","E0","E1","E2","E3","E4","E5","E6","E10","E99","E???"]
+"level_order" : ["E-2~","E-1","E-0.5","E0","E1","E2","E3","E4","E5","E6","E10","E99","E???"]
 
 }
