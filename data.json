@@ -108,24 +108,6 @@
     "adddate": "2022-08-19"
   },
   {
-    "md5": "a85d6aa9e74a1f128ffde77498ddd6aa",
-    "org_level": 24,
-    "title": "Rainy [FREQ +1.0]",
-    "artist": "Yu^ta",
-    "folder": "FQ6",
-    "level": "6",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "a85d6aa9e74a1f128ffde77498ddd6aa"
-    ],
-    "org_md5": "a85d6aa9e74a1f128ffde77498ddd6aa",
-    "comment": "",
-    "adddate": "2022-08-19"
-  },
-  {
     "md5": "2f5d5bea560b8923731328f223b5d9c7",
     "org_level": 24,
     "title": "Rainy [GOD] [FREQ +1.0]",
@@ -144,24 +126,6 @@
     "adddate": "2022-08-19"
   },
   {
-    "md5": "ed21cf2badf827337bb24ce705ced20b",
-    "org_level": 12,
-    "title": "天空の城ヴェリエル [FREQ +2.0]",
-    "artist": "うえつ氏 \/さ",
-    "folder": "FQ7",
-    "level": "7",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "ed21cf2badf827337bb24ce705ced20b"
-    ],
-    "org_md5": "ed21cf2badf827337bb24ce705ced20b",
-    "comment": "",
-    "adddate": "2022-08-19"
-  },
-  {
     "md5": "dde1e2812b461f7183be9dbf4b3fbb71",
     "org_level": 12,
     "title": "天空の城ヴェリエル [SABOTHER] [FREQ +2.0]",
@@ -176,24 +140,6 @@
       "dde1e2812b461f7183be9dbf4b3fbb71"
     ],
     "org_md5": "dde1e2812b461f7183be9dbf4b3fbb71",
-    "comment": "",
-    "adddate": "2022-08-19"
-  },
-  {
-    "md5": "492024ef22fb7bf0c7ee9033801fa837",
-    "org_level": 24,
-    "title": "Rainy [FREQ +2.0]",
-    "artist": "Yu^ta",
-    "folder": "FQ8",
-    "level": "8",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "492024ef22fb7bf0c7ee9033801fa837"
-    ],
-    "org_md5": "492024ef22fb7bf0c7ee9033801fa837",
     "comment": "",
     "adddate": "2022-08-19"
   },
